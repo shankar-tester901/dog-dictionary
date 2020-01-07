@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "english_dictionary",
+		"stack": "node10",
+		"type": "applogic"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

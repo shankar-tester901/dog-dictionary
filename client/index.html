@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <title>DogDictionaryClient</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" type="text/css" media="screen" href="main.css" />
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"> </script>
+
+  <script src="main.js"></script>
+</head>
+
+<body onload="getBreedsListFromDB()">
+
+  <div class="row">
+    <div class="column" style="background-color:#DEB887;">
+      <button id="getBreeds" name="getBreeds" onclick="getBreeds();return false">Get Breeds</button>
+
+      <div id="breed_List">
+
+      </div>
+    </div>
+    <div class="column" style="background-color:#ffb380;">
+      <div class="dropdown">
+
+        <select id='myBreeds' onchange='OnChange(this);'>
+
+        </select>
+      </div>
+
+      <div id="meaning_Details">
+
+      </div>
+    </div>
+  </div>
+
+</body>
+
+</html>

@@ -1,0 +1,12 @@
+{
+  "client": {
+    "source": "client"
+  },
+  "applogic": {
+    "targets": [
+      "english_dictionary"
+    ],
+    "ignore": [],
+    "source": "applogic"
+  }
+}
