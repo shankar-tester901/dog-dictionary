@@ -802,4 +802,4 @@ So that is about it. Now, take the client URL that is - https://dogdictionary-69
 
 
 
-Paste this in a new tab in the browser and .. Voila! Your app is live now./ Do ask your friends to give it a shot and also let us know how this went …. <Add Social Tags here>. So how many dog-breeds did you not know of? Interesting isn’t it ! I knew just 3 breeds.
+Paste this in a new tab in the browser and .. Voila! Your app is live now./ Do ask your friends to give it a shot and also let us know how this went …. So how many dog-breeds did you not know of? Interesting isn’t it ! I knew just 3 breeds.
