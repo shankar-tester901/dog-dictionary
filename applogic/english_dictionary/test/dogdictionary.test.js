@@ -6,5 +6,5 @@ it('check dog breed list URL', async () => {
     const breedInfo = dogBreeds.data['message'];
     var keys = Object.keys(breedInfo);
 
-  expect(keys.length).toBe.greaterThan(0);
+  expect(keys).toBeGreaterThan(0);
 });
